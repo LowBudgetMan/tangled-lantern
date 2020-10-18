@@ -1,6 +1,6 @@
 # Tangled Lantern
 
-![Example completed lantern](lantern.jpg)
+<img src="lantern.jpg" alt="Example completed lantern" width="50%" height="50%">
 
 This is a recreation project of the photo opportunity with a lantern from the movie 'Tangled' available at Walt Disney World's Magic Kingdom.
 The Arduino code is simple and meant to mimic the look of a candle, and the construction is made of a painted lampshade with the circuit hanging from inside it.
